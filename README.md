@@ -4,6 +4,9 @@ Este repositório foi criado para armazenar e compartilhar os exercícios e desa
 
 ### 🛠️Tecnologias e ferramentas utilizadas:
 
-- ![Static Badge](https://custom-icon-badges.demolab.com/badge/Java-white?style=plastic&logo=java-logo-icon)
-- ![Static Badge](https://img.shields.io/badge/Git-F05032?style=plastic&logo=git&logoColor=white) ![Static Badge](https://img.shields.io/badge/GitHub-181717?style=plastic&logo=github&logoColor=white)
-- ![Static Badge](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0098FF?style=plastic&logo=vscode-logo-icon-alt)
+- ![Java](https://custom-icon-badges.demolab.com/badge/Java-181717?style=flat&logo=java-logo-icon)
+- ![Eclipe](https://custom-icon-badges.demolab.com/badge/Eclipse-181717?style=flat&logo=eclipse-logo-icon)
+- ![Netbeans](https://custom-icon-badges.demolab.com/badge/Netbeans-181717?style=flat&logo=netbeans-logo-old-icon)
+- ![VSCode](https://custom-icon-badges.demolab.com/badge/Visual_Studio_Code-181717?style=flat&logo=vscode-logo-icon)
+- ![Git](https://img.shields.io/badge/Git-181717?style=flat&logo=git&logoColor=F05032)
+- ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
