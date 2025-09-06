@@ -7,6 +7,6 @@ Este repositório foi criado para armazenar e compartilhar os exercícios e desa
 - ![Java](https://custom-icon-badges.demolab.com/badge/Java-181717?style=flat&logo=java-logo-icon)
 - ![Eclipe](https://custom-icon-badges.demolab.com/badge/Eclipse-181717?style=flat&logo=eclipse-logo-icon)
 - ![Netbeans](https://custom-icon-badges.demolab.com/badge/Netbeans-181717?style=flat&logo=netbeans-logo-old-icon)
-- ![VSCode](https://custom-icon-badges.demolab.com/badge/Visual_Studio_Code-181717?style=flat&logo=vscode-logo-icon)
+- ![VSCode](https://custom-icon-badges.demolab.com/badge/VSCode-181717?style=flat&logo=vscode-logo-icon)
 - ![Git](https://img.shields.io/badge/Git-181717?style=flat&logo=git&logoColor=F05032)
 - ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
